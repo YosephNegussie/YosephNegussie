@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Certification-BSI%20ISO%2Fiec%2027001%20Lead%20Auditor-gold?style=flat-square&logo=security" alt="ISO 27001 Lead Auditor">
 </p>
 
-I am a certified Information Security Specialist, BSI ISO/IEC 27001 Lead Auditor[cite: 1, 2], and Co-founder & CEO at **[OmniStackIT](https://omnistackit.com)**[cite: 2]. I specialize in 24/7 Managed Security Operations (SOC/MDR), GRC compliance, risk analysis, and building resilient cloud architectures across East Africa.
+I am a certified Information Security Specialist, BSI ISO/IEC 27001 Lead Auditor, and Co-founder & CEO at **[OmniStackIT](https://omnistackit.com)**. I specialize in 24/7 Managed Security Operations (SOC/MDR), GRC compliance, risk analysis, and building resilient cloud architectures across East Africa.
 
 ---
 
@@ -25,6 +25,6 @@ I am a certified Information Security Specialist, BSI ISO/IEC 27001 Lead Auditor
 
 ### 🌐 Connect With Me
 * **Website / Portfolio:** [yosephnegussie.github.io/my-profile](https://yosephnegussie.github.io/my-profile/)
-* **Company:** [OmniStackIT](https://omnistackit.com)[cite: 2]
-* **LinkedIn:** [Yoseph Negussie Alula, MSc](https://www.linkedin.com/in/yoseph-negussie-alula-msc-4202371b0/)[cite: 1, 2]
+* **Company:** [OmniStackIT](https://omnistackit.com)
+* **LinkedIn:** [Yoseph Negussie Alula, MSc](https://www.linkedin.com/in/yoseph-negussie-alula-msc-4202371b0/)
 * **Email:** yoseph.alula@omnistackit.com
